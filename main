@@ -1,12 +1,16 @@
+<!DOCTYPE html>
 <html>
-<head>
-<title>‎♡‧₊˚ </title>
-<link rel="shortcut icon" href="https://i.pinimg.com/564x/0a/77/9b/0a779b1f984183e7866f5d1cddbd18a6.jpg">
-<meta name="title" content="‎♡‧₊˚">
-<meta name="description" content="healing from a thunder storm">
-<meta name="theme-color" content="#faebf6">
-<meta property="og:image" content="https://i.pinimg.com/564x/1b/f8/c3/1bf8c3c802e17a554501a783daf0d16b.jpg">
-<meta property="og:image:type" content="image/jpg">
-<meta propert="og:type" content="website">
-</head>
+  <head>
+    <title>pooofycloud</title>
+    <link rel="shortcut icon" href="https://i.pinimg.com/564x/0a/77/9b/0a779b1f984183e7866f5d1cddbd18a6.jpg">
+    <meta property="og:image:type" content="image/jpg">
+    <meta propert="og:type" content="website">
+    <style type="text/css">
+      *{ font-family: Arial}
+    </style>
+  </head>
+  <body>
+    <body ondragstart="return false" style="background-image:url("https://64.media.tumblr.com/3f35965d2b8061f4bb984cf498487dca/e7e0bff973ffa954-10/s2048x3072/5ac2a2c56e521e31fa0b72e72271c8a39e843064.pnj"); background-repeat:no repeat; background-size: cover">
+  <h1>still working on this project, my apologies </h1>
+  </body>
 </html>
